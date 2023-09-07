@@ -1,2 +1,2 @@
 # DEMO 
-.md has many shortcuts.
+.md has many shortcuts!
